@@ -52,6 +52,10 @@ git add .
 git commit -m "add .gitignore, cmds to readme"
 git push origin main
 ```
+## Add data folder and .csv
+
+##### Manually added a data folder to the project folder, then added two .csv files in VS Code.
+
 ## Project work
 
 ##### Followed instructions from the source link below. 
