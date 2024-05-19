@@ -56,6 +56,14 @@ git push origin main
 
 ##### Manually added a data folder to the project folder, then added two .csv files in VS Code.
 
+## created .sql
+
+##### created a .sql file to manage info and create a database. Coppied from instrucitons.
+
+## created book_manager.py
+
+##### Followed instructions from canvas. again, this was to create a database and fill with info from CSV files.
+
 ## Project work
 
 ##### Followed instructions from the source link below. 
