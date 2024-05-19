@@ -36,7 +36,7 @@ py -m venv .venv
 #installs all files in requirements.txt
 py -m pip install -r requirements.txt
 #creates requirements.txt file and outputs the installed packages
-python -m pip freeze > requirements.txt
+py -m pip freeze > requirements.txt
 ```
 
 ## add docstring to .py file
