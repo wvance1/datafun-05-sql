@@ -1,3 +1,4 @@
+
 -- Start by deleting any tables if the exist already
 -- We want to be able to re-run this script as needed.
 -- DROP tables in reverse order of creation 
@@ -25,6 +26,5 @@ CREATE TABLE books (
 CREATE TABLE authors (
     author_id TEXT PRIMARY KEY,
     first_name TEXT,
-    last_name TEXT,
-    year_born INTEGER
+    last_name TEXT
 );
