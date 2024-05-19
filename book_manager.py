@@ -61,8 +61,9 @@ def main():
     create_database()
     create_tables()
     insert_data_from_csv()
-
+'''
 if __name__ == "__main__":
     logging.info("Program started") 
     main()
     logging.info("Program ended")  
+'''
