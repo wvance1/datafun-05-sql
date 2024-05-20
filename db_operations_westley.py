@@ -1,3 +1,14 @@
+'''
+Westley Vance
+The purpose of this file is to demonstrate usage of 
+sql and database operations. Through this file and the 
+files referenced below, I created a databse, added tables
+ to the databse, filled the tables with data from both CSV
+and .sql files, deleted information, changed information, 
+queried the database and filtered, grouped, sorted and 
+joined the data. All of this is doccumented in the README.
+'''
+
 import sqlite3
 import pandas as pd
 import pathlib
